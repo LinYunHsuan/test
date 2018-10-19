@@ -1,0 +1,194 @@
+{
+  "data" : {
+    "UPDATETIME" : "Wed Aug 01 00:00:00 CST 2018",
+    "park" : [ {
+      "id" : "",
+      "area" : "",
+      "name" : "嘟嘟房交易二號廣場站停車場",
+      "type" : "2",
+      "summary" : "建物附設立體式小型車122格(含身心障礙停車位2格)",
+      "address" : "",
+      "tel" : "2504-6098",
+      "payex" : "計時：100元/時，計次：週一至周日每次1000元。",
+      "serviceTime" : "24小時",
+      "tw97x" : "0.00000",
+      "tw97y" : "0.00000",
+      "totalcar" : 34,
+      "totalmotor" : 0,
+      "totalbike" : 0,
+      "totalbus" : 0,
+      "FareInfo" : { },
+      "EntranceCoord" : { }
+    }, {
+      "id" : "001",
+      "area" : "信義區",
+      "name" : "府前廣場地下停車場",
+      "type" : "1",
+      "type2" : "2",
+      "summary" : "為地下二層停車場，計有2024個小型車停車格，1137個機車停車位",
+      "address" : "松壽路1號地下",
+      "tel" : "2723-0000",
+      "payex" : "計時:30元(9-18)，夜間10元(18-9)，機車計次20元(當日當次，隔日另計)。月票:全日3,400元，所在里3,000元，日間2,400元(7-19)，夜間1,000元(週一至週五19-8時及假日)，機車300元。市府員工月票:全日2,900元，日間2,400元(7-22)，機車150元。本場提供計程車免費一小時服務。",
+      "serviceTime" : "00:00:00~23:59:59",
+      "tw97x" : "306812.928",
+      "tw97y" : "2769892.95",
+      "totalcar" : 2019,
+      "totalmotor" : 1162,
+      "totalbike" : 31,
+      "totalbus" : 0,
+      "ChargeStation" : {
+        "StationName" : "北市府前停車場",
+        "StationAddr" : "台北市信義區松壽路1號B1",
+        "locLongitude" : 121.56306,
+        "locLatitude" : 25.036037,
+        "openFlag" : "N",
+        "isCharge" : "N",
+        "contactName" : "詹朝清場長",
+        "contactMobilNo" : "0928-228-830",
+        "scoketCount" : 4,
+        "availableCount" : 0,
+        "country" : "台北市",
+        "town" : "信義區"
+      },
+      "Pregnancy_First" : "40",
+      "Handicap_First" : "40",
+      "totallargemotor" : "0",
+      "ChargingStation" : "4",
+      "Taxi_OneHR_Free" : "0",
+      "AED_Equipment" : "0",
+      "CellSignal_Enhancement" : "0",
+      "Accessibility_Elevator" : "0",
+      "Phone_Charge" : "0",
+      "Child_Pickup_Area" : "0",
+      "FareInfo" : {
+        "WorkingDay" : [ {
+          "Period" : "00~09",
+          "Fare" : "10"
+        }, {
+          "Period" : "09~18",
+          "Fare" : "30"
+        }, {
+          "Period" : "18~24",
+          "Fare" : "10"
+        } ],
+        "Holiday" : [ {
+          "Period" : "00~09",
+          "Fare" : "10"
+        }, {
+          "Period" : "09~18",
+          "Fare" : "30"
+        }, {
+          "Period" : "18~24",
+          "Fare" : "10"
+        } ]
+      },
+      "EntranceCoord" : {
+        "EntrancecoordInfo" : [ {
+          "Xcod" : "25.03648987",
+          "Ycod" : "121.5621068",
+          "Address" : "基隆路一段"
+        }, {
+          "Xcod" : "25.036014",
+          "Ycod" : "121.563163",
+          "Address" : "松壽路"
+        }, {
+          "Xcod" : "25.035975",
+          "Ycod" : "121.561532",
+          "Address" : "基隆路一段車行地下道"
+        } ]
+      }
+    }, {
+      "id" : "002",
+      "area" : "信義區",
+      "name" : "松壽廣場地下停車場",
+      "type" : "1",
+      "type2" : "2",
+      "summary" : "立體式小型車446格(含身心障礙停車位9格)。",
+      "address" : "松智路75號地下",
+      "tel" : "2722-8080",
+      "payex" : "計時：週一至週五(09-22)30元/時，(22-09)10元/時，假日(09-22)40元/時，(22-09)10元，全程半小時計費。月票：全日3,400元，日間(07-20)2,400元，夜間優惠(限週一至週五19-08及假日使用)1,000元。",
+      "serviceTime" : "00:00:00~23:59:59",
+      "tw97x" : "307143.740",
+      "tw97y" : "2770011.52",
+      "totalcar" : 437,
+      "totalmotor" : 0,
+      "totalbike" : 0,
+      "totalbus" : 0,
+      "Pregnancy_First" : "8",
+      "Handicap_First" : "8",
+      "totallargemotor" : "0",
+      "ChargingStation" : "0",
+      "Taxi_OneHR_Free" : "0",
+      "AED_Equipment" : "0",
+      "CellSignal_Enhancement" : "0",
+      "Accessibility_Elevator" : "0",
+      "Phone_Charge" : "0",
+      "Child_Pickup_Area" : "0",
+      "FareInfo" : {
+        "WorkingDay" : [ {
+          "Period" : "00~09",
+          "Fare" : "10"
+        }, {
+          "Period" : "09~22",
+          "Fare" : "30"
+        }, {
+          "Period" : "22~24",
+          "Fare" : "10"
+        } ],
+        "Holiday" : [ {
+          "Period" : "00~09",
+          "Fare" : "10"
+        }, {
+          "Period" : "09~22",
+          "Fare" : "40"
+        }, {
+          "Period" : "22~24",
+          "Fare" : "10"
+        } ]
+      },
+      "EntranceCoord" : {
+        "EntrancecoordInfo" : [ {
+          "Xcod" : "25.036966",
+          "Ycod" : "121.565523",
+          "Address" : ""
+        } ]
+      }
+    }, {
+      "id" : "003",
+      "area" : "信義區",
+      "name" : "臺北市災害應變中心地下停車場",
+      "type" : "1",
+      "type2" : "1",
+      "summary" : "立體式小型車169格(含身心障礙停車位5格)。立體式機車208格(含身心障礙停車位5格)。",
+      "address" : "莊敬路391巷11弄2號地下",
+      "tel" : "2345-3859",
+      "payex" : "小型車計時30元(全程以半小時)。全日月票5,000元，日間(07-19)月票2,600元，所在里民優惠(三張里)月票3,500，停車場出入口周邊服務半徑300公尺範圍內設籍里民(景新里、三犁里、景勤里、雙和里、惠安里)月票4,000元。機車暫不收費。本場提供計程車免費一小時服務。",
+      "serviceTime" : "00:00:00~23:59:59",
+      "tw97x" : "307142.121",
+      "tw97y" : "2769087.67",
+      "totalcar" : 169,
+      "totalmotor" : 208,
+      "totalbike" : 0,
+      "totalbus" : 0,
+      "Pregnancy_First" : "3",
+      "Handicap_First" : "5",
+      "totallargemotor" : "1",
+      "ChargingStation" : "2",
+      "Taxi_OneHR_Free" : "0",
+      "AED_Equipment" : "0",
+      "CellSignal_Enhancement" : "0",
+      "Accessibility_Elevator" : "0",
+      "Phone_Charge" : "0",
+      "Child_Pickup_Area" : "0",
+      "FareInfo" : {
+        "WorkingDay" : [ {
+          "Period" : "00~24",
+          "Fare" : "30"
+        } ],
+        "Holiday" : [ {
+          "Period" : "00~24",
+          "Fare" : "30"
+        } ]
+      }
+    }
+    
